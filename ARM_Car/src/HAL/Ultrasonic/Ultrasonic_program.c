@@ -1,10 +1,4 @@
-/**
- * @file Ultrasonic_program.c
- * @authors Hossam Elzhar , Mohammed Akram
- * @brief functions implementations for ultrasonic
- * @version 1.0
- * @date 2023-02-10
- */
+
 
 #include "../../LIB/STD_TYPES.h"
 #include "../../LIB/BIT_MATH.h"
